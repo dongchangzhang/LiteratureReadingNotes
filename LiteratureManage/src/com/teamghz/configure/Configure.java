@@ -20,7 +20,7 @@ public class Configure {
 	 * true when run on tomcat
 	 * false when run on your computer
 	 */
-	public final static boolean ONTOMCAT = false;
+	public final static boolean ONTOMCAT = true;
 	/**
 	 * if run on your computer, edit this please
 	 * ---Where is the Files will be save---
